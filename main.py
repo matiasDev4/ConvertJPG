@@ -123,4 +123,4 @@ def main(page: ft.Page):
 
 
 if __name__ == '__main__':
-    ft.app(target=main, name='convert dicom', assets_dir='assets')
+    ft.app(target=main, name='Converts files to JPG', assets_dir='assets')

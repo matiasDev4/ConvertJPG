@@ -12,8 +12,11 @@ https://github.com/user-attachments/assets/b96794e4-e9d6-4688-bae8-4b2abef7a29a
 
 
 [Descargar demo](https://download1349.mediafire.com/oqpj9lhkl1igUh15xxMhEWe-Ungk-eUz-Ckei489stRkqzhxgNvEAokZezFJkw8MZ8QeTCvKDdV5d_xw7V9VqeGte9SksolIcHcsrEU1bw_WG5GGx5wDBqV8ht0MYCQLTqbjdRcAhI6vu-1MMmgdYZgKrF1gLYGiMeev6AjsWfnV/afcjo52t0n0kh1f/ConvertJPG.rar)
+[!IMPORTANT]  
+Debido a que el programa no cuenta con una firma digital, algunos antivirus pueden bloquear su ejecución. En caso de recibir una advertencia, se recomienda permitir la ejecución o agregar el programa a la lista de excepciones del antivirus. Para mayor tranquilidad, podés consultar el video demostrativo.
 
-## 🔍 ¿Que utilice?
+
+## 🧰 Tecnologías y Librerías Utilizadas
   - [Flet](https://flet.dev/) Flet es un framework de python bastante nuevo, pero su potencia y velocidad para crear aplicaciónes frontend y backend en un mismo lugar es espactacular, mayormente utilizo Flet para este tipo de proyectos.
     Pero asi como tiene ventajas, también tiene sus desventajas, asi que actualmente me encuentro estudiando y practicando en [Electron](https://www.electronjs.org/es/) un framework para desarrollar aplicaciónes de escritorio utilizando HTML, CSS, JavaScript.
   - [Pydicom](https://pydicom.github.io/pydicom/stable/) libreria para la manipulacion de archivos DICOM, ayundome a extraer su informacion la cual utilizaria para la creación de la imagen

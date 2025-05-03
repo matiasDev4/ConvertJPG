@@ -8,7 +8,7 @@
   - [Pydicom](https://pydicom.github.io/pydicom/stable/) libreria para la manipulacion de archivos DICOM, ayundome a extraer su informacion la cual utilizaria para la creacion de la imagen
   - [Poppler](https://github.com/oschwartz10612/poppler-windows?tab=readme-ov-file) Poppler es una bibloteca de software que puede manipular archivos PDF y en conjunto con [pdf2image](https://pypi.org/project/pdf2image/) puedo hacer uso de las utilidades que ofrece      Poppler en Python
   - [Numpy](https://numpy.org/doc/) con numpy pude normalizar la cantidad pixeles de un archivo DICOM a la escala que una imagen JPG necesita
-  - [Pillow](https://pillow.readthedocs.io/en/stable/) con pillow puede reconstruir con la escala correcta de pixeles y guardala en el directorio asignado
+  - [Pillow](https://pillow.readthedocs.io/en/stable/) con pillow pude reconstruir la imagen con la escala correcta de pixeles y guardala en el directorio asignado
 
 # 🤔 ¿Que aprendi?
   - Aprendi a manipular archivos DICOM y PDF, entendiendo a nivel basico los datos que los componen y como podemos utilizarlos para crear cosas, en este caso una imagen JPG. Aunque fue complejo entenderlo no me tomo mucho tiempo,

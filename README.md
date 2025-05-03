@@ -4,7 +4,7 @@
 
 # 🔍 ¿Que utilice?
   - [Flet](https://flet.dev/) Flet es un framework de python bastante nuevo, pero su potencia y velocidad para crear aplicaciones frontend y backend en un mismo lugar es espactacular, mayormente utilizo Flet para este tipo de proyecto.
-    Pero asi como tiene ventajas, tambien tiene sus desventajas, asi que actualmente me encuentro estudiando y practicando en [Electron] un Framework para desarrollar aplicaciones de escritorio utilizando HTML, CSS, JavaScript.
+    Pero asi como tiene ventajas, tambien tiene sus desventajas, asi que actualmente me encuentro estudiando y practicando en [Electron](https://www.electronjs.org/es/) un Framework para desarrollar aplicaciones de escritorio utilizando HTML, CSS, JavaScript.
   - [Pydicom](https://pydicom.github.io/pydicom/stable/) libreria para la manipulacion de archivos DICOM, ayundome a extraer su informacion la cual utilizaria para la creacion de la imagen
   - [Poppler](https://github.com/oschwartz10612/poppler-windows?tab=readme-ov-file) Poppler es una bibloteca de software que puede manipular archivos PDF y en conjunto con [pdf2image](https://pypi.org/project/pdf2image/) puedo hacer uso de las utilidades que ofrece      Poppler en Python
   - [Numpy](https://numpy.org/doc/) con numpy pude normalizar la cantidad pixeles de un archivo DICOM a la escala que una imagen JPG necesita

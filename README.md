@@ -16,8 +16,7 @@
   - Desarrollar una version mas pulida, mejorar la interfaz grafica y agregar nuevas funcionalidades
   - Desarrollar la misma aplicacion en Electron JS + React + TypeScript + Tailwind y utilizando scripts de Python para manejar la logica de la aplicacion
     
-# Proba la aplicacion
-  >>> [Descargar demo]()  
+
 
 
 

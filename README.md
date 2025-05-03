@@ -19,8 +19,9 @@ https://github.com/user-attachments/assets/b96794e4-e9d6-4688-bae8-4b2abef7a29a
 ## 🧰 Tecnologías y Librerías Utilizadas
   - [Flet](https://flet.dev/) Flet es un framework de python bastante nuevo, pero su potencia y velocidad para crear aplicaciónes frontend y backend en un mismo lugar es espactacular, mayormente utilizo Flet para este tipo de proyectos.
     Pero asi como tiene ventajas, también tiene sus desventajas, asi que actualmente me encuentro estudiando y practicando en [Electron](https://www.electronjs.org/es/) un framework para desarrollar aplicaciónes de escritorio utilizando HTML, CSS, JavaScript.
-  - [Pydicom](https://pydicom.github.io/pydicom/stable/) libreria para la manipulacion de archivos DICOM, ayundome a extraer su informacion la cual utilizaria para la creación de la imagen
-  - [Poppler](https://github.com/oschwartz10612/poppler-windows?tab=readme-ov-file) Poppler es una bibloteca de software que puede manipular archivos PDF y en conjunto con [pdf2image](https://pypi.org/project/pdf2image/) puedo hacer uso de las utilidades que ofrece      Poppler en Python
+  - [Pydicom](https://pydicom.github.io/pydicom/stable/) librerÍa para la manipulacion de archivos DICOM, ayundome a extraer su información la cual utilizaria para la creación de la imagen
+  - [Poppler](https://github.com/oschwartz10612/poppler-windows?tab=readme-ov-file) Poppler es una bibloteca de software que puede manipular archivos PDF y en conjunto con [pdf2image](https://pypi.org/project/pdf2image/) puedo hacer uso de las utilidades que     
+    ofrece Poppler en Python
   - [Numpy](https://numpy.org/doc/) con numpy pude normalizar la cantidad pixeles de un archivo DICOM a la escala que una imagen JPG necesita
   - [Pillow](https://pillow.readthedocs.io/en/stable/) con pillow pude reconstruir la imagen con la escala correcta de pixeles y guardala en el directorio asignado
 

@@ -12,7 +12,7 @@
 
 # 🤔 ¿Que aprendi?
   - Aprendi a manipular archivos DICOM y PDF, entendiendo a nivel basico los datos que los componen y como podemos utilizarlos para crear cosas, en este caso una imagen JPG. Aunque fue complejo entenderlo no me tomo mucho tiempo,
-    gracias a las diferentes librerias que hacen el trabajo duro de por detras, pero que son importantes saber como utilizarlas y sacarle provecho.
+    gracias a las diferentes librerias que hacen el trabajo duro por de detras, pero que son importantes saber como utilizarlas y sacarle provecho.
     
 # 🎯 Proximos objetivos 
   - Desarrollar una version mas pulida, mejorar la interfaz grafica y agregar nuevas funcionalidades
